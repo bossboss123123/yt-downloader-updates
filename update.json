@@ -1,7 +1,6 @@
 {
   "version": "4.0.2",
-  "download_url": "https://raw.githubusercontent.com/bossboss123123/yt-downloader-updates/main/YT_Downloader_v4_0_1.zip",
-  "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
-  "message": "4.0.2 更新測試"
+  "download_url": "https://raw.githubusercontent.com/bossboss123123/yt-downloader-updates/main/YT_Downloader_v4_0_2.zip",
+  "sha256": "c60b8994197704bf6ea9ae50888c1ebde50a7fe1af2f7863a7d79d20820c3671",
+  "message": "4.0.2 更新"
 }
-
